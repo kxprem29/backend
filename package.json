@@ -12,5 +12,9 @@
     "backend"
   ],
   "author": "prem kashyap",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.1",
+    "prettier": "^3.2.5"
+  }
 }
